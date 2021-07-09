@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllThingsCS
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Javascript (react)
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on learning new stuff.
 - 📫 How to reach me (coming soon)
 
